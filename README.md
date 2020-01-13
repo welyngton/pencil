@@ -62,5 +62,6 @@ Linux
     * Ubuntu 12.04 and later
     * Fedora 21+
     * Debian 8+
+    * Manjaro 18+
 * Packages
     * **Arch Linux** - [pencil](https://aur.archlinux.org/packages/pencil/) on the [Arch User Repository](https://aur.archlinux.org/).
